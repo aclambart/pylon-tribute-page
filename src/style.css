@@ -1,0 +1,14 @@
+#img-caption
+{
+  width: 200px;
+  
+}
+#image 
+{
+  width: 50%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
